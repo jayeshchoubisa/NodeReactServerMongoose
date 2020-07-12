@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbc8fbd7.chunk.css",
+    "main.js": "/static/js/main.a5781261.chunk.js",
+    "main.js.map": "/static/js/main.a5781261.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b240f91f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b240f91f.js.map",
+    "static/css/2.bb630bab.chunk.css": "/static/css/2.bb630bab.chunk.css",
+    "static/js/2.c80647a6.chunk.js": "/static/js/2.c80647a6.chunk.js",
+    "static/js/2.c80647a6.chunk.js.map": "/static/js/2.c80647a6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.138b4637c06fe27d5f0a42fb1cb11360.js": "/precache-manifest.138b4637c06fe27d5f0a42fb1cb11360.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bb630bab.chunk.css.map": "/static/css/2.bb630bab.chunk.css.map",
+    "static/css/main.bbc8fbd7.chunk.css.map": "/static/css/main.bbc8fbd7.chunk.css.map",
+    "static/media/Akhil.jpg": "/static/media/Akhil.74eda7cc.jpg",
+    "static/media/Logo.png": "/static/media/Logo.b7403202.png",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/second.jpg": "/static/media/second.8574f68e.jpg",
+    "static/media/shailendra-chauhan.jpg": "/static/media/shailendra-chauhan.095c6252.jpg",
+    "static/media/telephone.jpg": "/static/media/telephone.13733222.jpg",
+    "static/media/third.jpg": "/static/media/third.d01c8d40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b240f91f.js",
+    "static/css/2.bb630bab.chunk.css",
+    "static/js/2.c80647a6.chunk.js",
+    "static/css/main.bbc8fbd7.chunk.css",
+    "static/js/main.a5781261.chunk.js"
+  ]
+}
